@@ -1,0 +1,23 @@
+{
+    "name": "com.alextutea.unity-enhanced-events",
+    "version": "1.0.0",
+    "displayName": "Enhanced Events",
+    "description": "Minimal unity package that adds new event-related classes with features which enable a much cleaner and safer management of pubsub or observer patterns in Unity.",
+    "unity": "2020.3",
+    "unityRelease": "23f1",
+    "documentationUrl": "https://github.com/alextutea/unity-enhanced-events",
+    "changelogUrl": "https://github.com/alextutea/unity-enhanced-events",
+    "licensesUrl": "https://github.com/alextutea/unity-enhanced-events",
+    "dependencies": {},
+   "keywords": [
+      "events",
+      "observer",
+      "actions"
+    ],
+    "author": {
+      "name": "Alex Tutea",
+      "email": "alex.tutea@gmail.com",
+      "url": "https://github.com/alextutea"
+    }
+  }
+  
